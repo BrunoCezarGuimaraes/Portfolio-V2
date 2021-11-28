@@ -4,8 +4,8 @@ Portfólio profissional
 Link pro portfólio: https://brunocezarguimaraes.github.io/
 
 Baseado nos portfolios da Bebimcode, respectivamente do Clay Doe e Alexia os links para os videos do youtube são esses:
-Clay Doe: https://www.youtube.com/watch?v=BS6blX035NM
-Alexia: https://www.youtube.com/watch?v=27JtRAI3QO8
+-Clay Doe: https://www.youtube.com/watch?v=BS6blX035NM
+-Alexia: https://www.youtube.com/watch?v=27JtRAI3QO8
 
 O Portfólio esta separado em diversas seções, sendo elas, Home, Sobre, Habilidades, Serviços, Portfólio e Contacte-me.
 No Home é a parte inicial que possui a animação em seus elementos pelo uso do https://greensock.com/
